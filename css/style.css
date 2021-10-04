@@ -20,7 +20,7 @@ body {
 
   /* About me section */
   .about-me-section {
-    margin-bottom: 0 0 0 0;
+    margin-bottom: 0 0 40px 0;
   }
   .about-me-profession {
     font-size: 14px;
