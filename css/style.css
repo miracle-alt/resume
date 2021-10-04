@@ -70,7 +70,7 @@ body {
     font-weight: 700;
     line-height: 27px;
     letter-spacing: 0em;
-    text-align: left;
+    text-align: center;
     color: #000;
     margin-bottom: 10px;
   }
@@ -152,7 +152,7 @@ body {
   
   /* sidebar section */
   .sidebar-section {
-    background-color: #1e2939;
+    background-color: #0ff175;
     width: 370px;
     padding: 40px 0;
   }
