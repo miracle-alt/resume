@@ -1,21 +1,14 @@
 body {
-    background-color: blueviolet;
-}
-
-
-
-
-
-body {
     font-family: "Montserrat", sans-serif;
-    background-color: #c0baba;
+    background-color: #6fd65b;
     margin: 40px auto;
   }
   .main-container {
     display: flex;
     flex-direction: row-reverse;
-    width: 1200px;
+    width: 1300px;
     background-color: #fff;
+    margin: 40px;
     padding: 40px 40px 40px 40px;
     box-shadow: 6px 6px 20px;
   }
@@ -24,9 +17,10 @@ body {
   .main-content-section {
     padding: 100px 90px;
   }
+
   /* About me section */
   .about-me-section {
-    margin-bottom: 0 0 40px 0;
+    margin-bottom: 0 0 0 0;
   }
   .about-me-profession {
     font-size: 14px;
@@ -50,7 +44,7 @@ body {
   .about-me-description {
     font-size: 14px;
     font-style: normal;
-    font-weight: auto;
+    font-weight: 400;
     line-height: 24px;
     letter-spacing: 0em;
     text-align: left;
@@ -150,9 +144,11 @@ body {
     margin: 0 15px 0 0;
   }
   
+
+
   /* sidebar section */
   .sidebar-section {
-    background-color: #22fa83;
+    background-color: #095709;
     width: 370px;
     padding: 40px 0;
   }
